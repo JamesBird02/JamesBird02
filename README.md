@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+ (My Linkedin)[!https://www.linkedin.com/in/jamesbird1/]
+
+🎓 Electrical and Electronic Engineering graduate skilled in Python 🐍, C, C++ 🖥️, and Machine Learning 🤖.
+
+
+
 <!--
 **JamesBird02/JamesBird02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
