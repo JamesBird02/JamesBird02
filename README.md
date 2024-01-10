@@ -1,8 +1,8 @@
 ### Hi there 👋
 
- (My Linkedin)[!https://www.linkedin.com/in/jamesbird1/]
+ [My Linkedin !](https://www.linkedin.com/in/jamesbird1/) 
 
-🎓 Electrical and Electronic Engineering graduate skilled in Python 🐍, C, C++ 🖥️, and Machine Learning 🤖.
+🎓 Electrical and Electronic Engineering student skilled in Python, C, C++, and Machine Learning 🤖.
 
 
 
